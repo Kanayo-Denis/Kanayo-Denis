@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kanayo-Denis
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Scienec
+- 👀 I’m interested in Data Analysis and Engineering
+- 🌱 I’m currently learning Both
+- 💞️ I’m looking to collaborate on Both Data Engineering and Analysis
 - 📫 How to reach me 
 
 <!---
