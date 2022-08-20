@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Both
 - 💞️ I’m looking to collaborate on Both Data Engineering and Analysis
 - 📫 How to reach me:
-- @kanayodenis@gmail.com
+- kanayodenis@gmail.com
 - +2348132904577
 
 <!---
