@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kanayo Denis-Akano David
-- 👀 I’m interested in Data Analysis and Engineering
-- 🌱 I’m currently learning Both
+- 👀 I’m interested in Data and Analytics Engineering 
 - 💞️ I’m looking to collaborate on Both Data Engineering and Analysis
 - 📫 How to reach me:
 - kanayodenis@gmail.com
